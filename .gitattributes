@@ -1,0 +1,4 @@
+*.dart linguist-detectable=true
+*.m linguist-detectable=false
+*.h linguist-detectable=false
+*.xml linguist-detectable=false
